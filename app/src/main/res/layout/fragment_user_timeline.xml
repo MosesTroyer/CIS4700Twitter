@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Programmer: Moses Troyer
+Class ID: mtroyer4551
+Lab 4
+CIS 4700: Mobile Commerce Development
+Spring 2016
+Due date: 4/10/16
+Date completed: 4/13/16
+*************************************
+* fragment that holds tweet fragments
+*************************************
+-->
+
+<android.support.v7.widget.RecyclerView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tweet_recycler_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</android.support.v7.widget.RecyclerView>

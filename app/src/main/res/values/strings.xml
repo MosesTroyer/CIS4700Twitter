@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Twitter Stalker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchPrompt">Search for a Twitter User using Google</string>
+    <string name="search">Search</string>
+    <string name="stalkPrompt">Stalk a Twitter User</string>
+    <string name="stalk">Stalk</string>
+    <string name="editTextUserHint">Username</string>
+    <string name="menu_item_view_twitter">View this user on Twitter</string>
+    <string name="menu_item_clear_terms">Clear search terms</string>
+    <string name="menu_item_clear_stalk">Clear stalk victim</string>
+    <string name="menu_item_stalk">Stalk!</string>
+    <string name="new_tweet">New Tweets</string>
+    <string name="new_tweet_text">Your victim posted a new Tweet...</string>
+</resources>

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".UserTimeLineActivity">
+
+    <item
+        android:id="@+id/menu_item_stalk"
+        android:title="@string/menu_item_stalk"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/menu_item_view_twitter"
+        android:title="@string/menu_item_view_twitter"
+        app:showAsAction="never"
+        />
+
+</menu>

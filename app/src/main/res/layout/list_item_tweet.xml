@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Programmer: Moses Troyer
+Class ID: mtroyer4551
+Lab 4
+CIS 4700: Mobile Commerce Development
+Spring 2016
+Due date: 4/10/16
+Date completed: 4/13/16
+*************************************
+* Fragment to represent every tweet
+*************************************
+-->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="?android:listSeparatorTextViewStyle">
+
+    <TextView
+        android:id="@+id/list_item_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:padding="4dp"
+        android:textColor="#000" />
+
+</RelativeLayout>
